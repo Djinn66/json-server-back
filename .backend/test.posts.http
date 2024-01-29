@@ -1,0 +1,4 @@
+GET http://localhost:5000/660/users
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im9saXZpZXJAbWFpbC5jb20iLCJpYXQiOjE3MDY1NTk3NjcsImV4cCI6MTcwNjU2MzM2Nywic3ViIjoiMSJ9.Rw2kg0goaOXnCkgFmlEuNtBw-zYuE-DokE58IJHKu-A
+
