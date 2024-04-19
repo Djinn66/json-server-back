@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "back": "json-server-auth --delay 2000 --routes .backend/routes/routes.json --watch json-server.config.js --port 5000"
+    "back": "json-server-auth --delay 2000 --routes .backend/routes/routes.json --watch json-server.config.js --port 5000",
+    "backend": "npx json-server db.json --delay 2000 --port 5000"
   },
   "dependencies": {
     "json-server": "^0.17.4",
